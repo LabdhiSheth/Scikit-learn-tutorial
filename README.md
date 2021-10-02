@@ -3,7 +3,7 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
 
 1. Video 1: 
    
-   Introduction to Scikit-learn 
+   Introduction to Scikit-learn. 
    
    This video cover the topics - Scikit-learn (Sklearn), Features that Scikit learn supports, understanding github.com/scikit-learn/scikit-learn repository, understanding scikit-learn.org/stable/datasets.html support, understanding Iris dataset, implementing use of  Scikit-learn for Iris dataset.
   
@@ -13,6 +13,14 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
    
    How to perform preprocessing with sklearn library.
 
-   In this video tutorial the topics - Introduction to Preprocessing using Scikit Learn, different methods for preprocessing, Implementation Example for Binarization, Mean Removal, Standardization, Scaling, Normalization, and Encoding has bee covered
+   This video cover the topics - Introduction to Preprocessing using Scikit Learn, different methods for preprocessing, Implementation Example for Binarization, Mean Removal, Standardization, Scaling, Normalization, and Encoding.
 
    Video Link: https://www.youtube.com/watch?v=bHkiDjkXBXg&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=60
+
+3. Video 3:
+
+   Regression using Scikit-learn.
+
+   This video cover the topics - Introduction to Supervised Learning Algorithms, Regression Techniques, implementation for Regression using Scikit-learn.
+
+   Video Link: https://www.youtube.com/watch?v=uObcUpFALpg&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=61
