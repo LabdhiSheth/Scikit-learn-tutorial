@@ -5,7 +5,7 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
    
    Introduction to Scikit-learn. 
    
-   This video cover the topics - Scikit-learn (Sklearn), Features that Scikit learn supports, understanding github.com/scikit-learn/scikit-learn repository, understanding scikit-learn.org/stable/datasets.html support, understanding Iris dataset, implementing use of  Scikit-learn for Iris dataset.
+   This video covers the topics - Scikit-learn (Sklearn), Features that Scikit learn supports, understanding github.com/scikit-learn/scikit-learn repository, understanding scikit-learn.org/stable/datasets.html support, understanding Iris dataset, implementing use of  Scikit-learn for Iris dataset.
   
     Video Link: https://www.youtube.com/watch?v=sxI0_KNdeOw&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=59
     
@@ -13,7 +13,7 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
    
    How to perform preprocessing with sklearn library.
 
-   This video cover the topics - Introduction to Preprocessing using Scikit Learn, different methods for preprocessing, Implementation Example for Binarization, Mean Removal, Standardization, Scaling, Normalization, and Encoding.
+   This video covers the topics - Introduction to Preprocessing using Scikit Learn, different methods for preprocessing, Implementation Example for Binarization, Mean Removal, Standardization, Scaling, Normalization, and Encoding.
 
    Video Link: https://www.youtube.com/watch?v=bHkiDjkXBXg&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=60
 
@@ -21,6 +21,14 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
 
    Regression using Scikit-learn.
 
-   This video cover the topics - Introduction to Supervised Learning Algorithms, Regression Techniques, implementation for Regression using Scikit-learn.
+   This video covers the topics - Introduction to Supervised Learning Algorithms, Regression Techniques, implementation for Regression using Scikit-learn.
 
    Video Link: https://www.youtube.com/watch?v=uObcUpFALpg&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=61
+   
+4. Video 4:
+
+   Implementing Naive Bayes Theorem using Scikit-learn.
+
+   This video cover the topics: Introduction to Classification, Types of Classification Problems, Classification versus Regression, Naive Bayes Theorem, Types of Naive Bayes, classifier, Laplacian Correction, Implementation of Naive Bayes Theorem using Python Programming
+
+   Video Link: https://www.youtube.com/watch?v=5bSzrmn1dEw&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=62
