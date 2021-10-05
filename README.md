@@ -29,6 +29,15 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
 
    Implementing Naive Bayes Theorem using Scikit-learn.
 
-   This video cover the topics: Introduction to Classification, Types of Classification Problems, Classification versus Regression, Naive Bayes Theorem, Types of Naive Bayes, classifier, Laplacian Correction, Implementation of Naive Bayes Theorem using Python Programming
+   This video covers the topics: Introduction to Classification, Types of Classification Problems, Classification versus Regression, Naive Bayes Theorem, Types of Naive Bayes, classifier, Laplacian Correction, Implementation of Naive Bayes Theorem using Python Programming
 
    Video Link: https://www.youtube.com/watch?v=5bSzrmn1dEw&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=62
+   
+5. Video 5:
+
+   Implementing KNN using Scikit-learn.
+
+   This video covers the topics: Introduction to K-Nearest Neighbors, Cosine Similarity(A,B), Under fitting, Over fitting, Appropriate Fitting, Implementation Code for KNN Model, 
+   Data Visualization, Advantages, Disadvantages, Real World Example
+
+   Video Link: https://www.youtube.com/watch?v=eCZrIWzI5B4&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=63
