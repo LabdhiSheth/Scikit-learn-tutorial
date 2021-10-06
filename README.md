@@ -41,3 +41,11 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
    Data Visualization, Advantages, Disadvantages, Real World Example
 
    Video Link: https://www.youtube.com/watch?v=eCZrIWzI5B4&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=63
+   
+6. Video 6:
+
+   Implementing Decision Tree using Scikit-learn.
+
+   This video covers the topics: Introduction to Decision Tree Classifier, Elements of a Tree, How to build a Decision Tree from Scratch, Entropy, Information Gain, Gain Ratio,  Gini Ratio, Implementation Code for Decision Tree Classifier.
+
+   Video Link: https://www.youtube.com/watch?v=aIxsbG4cdNI&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=64
