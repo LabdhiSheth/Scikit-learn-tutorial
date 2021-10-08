@@ -49,3 +49,11 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
    This video covers the topics: Introduction to Decision Tree Classifier, Elements of a Tree, How to build a Decision Tree from Scratch, Entropy, Information Gain, Gain Ratio,  Gini Ratio, Implementation Code for Decision Tree Classifier.
 
    Video Link: https://www.youtube.com/watch?v=aIxsbG4cdNI&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=64
+   
+7. Video 7:
+
+   Hyperparameter Tuning using Scikit-learn.
+
+   This video covers the topics: Introduction to Hyper Parameter Tuning, Grid Search, Implementation of Grid Search.
+
+   Video Link: https://www.youtube.com/watch?v=rFr5Z9pshVo&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=65
