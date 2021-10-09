@@ -57,3 +57,10 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
    This video covers the topics: Introduction to Hyper Parameter Tuning, Grid Search, Implementation of Grid Search.
 
    Video Link: https://www.youtube.com/watch?v=rFr5Z9pshVo&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=65
+   
+   8. Video 8:
+   Implementing SVM with Scikit-learn.
+
+   This vodeo covers: Introduction to Support Vector Machine, Terminologies - Hyperplane, Support Vectors, Margin, Graphical Representation examples for Support Vector Machine, Implementation code in Python for Linear SVM using Sklearn
+
+   Video Link: https://www.youtube.com/watch?v=2MebrP9_qQ4&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=66
