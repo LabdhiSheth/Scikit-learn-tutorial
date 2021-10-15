@@ -65,3 +65,11 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
    This video covers: Introduction to Support Vector Machine, Terminologies - Hyperplane, Support Vectors, Margin, Graphical Representation examples for Support Vector Machine, Implementation code in Python for Linear SVM using Sklearn
 
    Video Link: https://www.youtube.com/watch?v=2MebrP9_qQ4&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=66
+
+9. Video 9:
+
+   Implementing Random Forest with Scikit-Learn.
+   
+   This video covers the topics: Introduction to Random Forest, Ensemble Methods, Bagging, Boosting, Why Random forest?, Implementation Code for Random Forest using Python
+   
+   Video Link: https://www.youtube.com/watch?v=ucr3Hz-cQ2Y&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=67
