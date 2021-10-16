@@ -73,3 +73,11 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
    This video covers the topics: Introduction to Random Forest, Ensemble Methods, Bagging, Boosting, Why Random forest?, Implementation Code for Random Forest using Python
    
    Video Link: https://www.youtube.com/watch?v=ucr3Hz-cQ2Y&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=67
+   
+10. Video 10:
+
+      Implementing Logistic regression with SciKit-Learn.
+
+      This video includes: Introduction to Logistic Regression, Types of Logistic Regression with graphical representation, Implementation Code in Python using Logistic Regression,
+
+      Video Link: https://www.youtube.com/watch?v=u8o0U0lnkUA&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=68
