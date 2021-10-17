@@ -81,3 +81,11 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
       This video includes: Introduction to Logistic Regression, Types of Logistic Regression with graphical representation, Implementation Code in Python using Logistic Regression,
 
       Video Link: https://www.youtube.com/watch?v=u8o0U0lnkUA&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=68
+      
+11. Video 11:
+
+      Implementing Stochastic Gradient Descent Classifier and Regressor Using Scikit-Learn.
+
+      This video covers the topics: Introduction to Stochastic Gradient Descent, SGDClassifier and SGDRegressor, Implementation Code for Stochastic Gradient Descent using Python.
+
+      Video Link: https://www.youtube.com/watch?v=9e5H7wCA-WI&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=69 
