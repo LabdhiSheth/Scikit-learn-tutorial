@@ -89,3 +89,11 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
       This video covers the topics: Introduction to Stochastic Gradient Descent, SGDClassifier and SGDRegressor, Implementation Code for Stochastic Gradient Descent using Python.
 
       Video Link: https://www.youtube.com/watch?v=9e5H7wCA-WI&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=69 
+
+12. Video 12:
+
+      Implementing K-mean clustering using Scikit-Learn.
+
+      This video covers the topics: Introduction to K - Means Clustering, Clusters, Value of K, Procedure of K-means, Stopping condition, Implementation, Applications of K-means Clustering.
+
+      Video Link: https://www.youtube.com/watch?v=LKT3z3cRDFA&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=70
