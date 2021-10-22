@@ -97,3 +97,11 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
       This video covers the topics: Introduction to K - Means Clustering, Clusters, Value of K, Procedure of K-means, Stopping condition, Implementation, Applications of K-means Clustering.
 
       Video Link: https://www.youtube.com/watch?v=LKT3z3cRDFA&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=70
+      
+13. Video 13:
+
+      Understanding the concept of Principal Component Ananlysis.
+
+      This video covers the topics: Introduction to Principle Component Analysis, Dimensionality Reduction: Feature Elimination and Feature Extraction, Standardization with example, and Covariance Matrix with example.
+
+      Video Link: https://www.youtube.com/watch?v=GPpnlMmbOW0&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=71
