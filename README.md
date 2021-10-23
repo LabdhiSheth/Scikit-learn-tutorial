@@ -105,3 +105,10 @@ Internship task under Samrat Ashok Technological Institute (D),  Vidisha (M.P), 
       This video covers the topics: Introduction to Principle Component Analysis, Dimensionality Reduction: Feature Elimination and Feature Extraction, Standardization with example, and Covariance Matrix with example.
 
       Video Link: https://www.youtube.com/watch?v=GPpnlMmbOW0&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=71
+14. Viedo 14:
+
+      Understanding Eigenvector, Eigenvalues and principal components.
+
+      This video covers: Eigenvector and Eigenvalues, Principle Components, Recasting the data along principle component axis, Solved Examples. 
+
+      Video Link: https://www.youtube.com/watch?v=N5sxJdygcfY&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=72
